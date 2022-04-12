@@ -1,5 +1,10 @@
 # mir_ros
 
+### basic dependency
+* websocket
+  * pip2 install websocket
+  * pip2 install websocket-client
+
 ### dependency
 * [robot_localization/ekf_localization](https://github.com/cra-ros-pkg/robot_localization)
   * [geographic_msgs](https://github.com/ros-geographic-info/geographic_info)
