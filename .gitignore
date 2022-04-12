@@ -1,2 +1,3 @@
 cmake-build-debug/atomic_configure cmake-build-debug/build.ninja cmake-build-debug/catkin cmake-build-debug/catkin_generated cmake-build-debug/CATKIN_IGNORE cmake-build-debug/CMakeCache.txt cmake-build-debug/CMakeFiles cmake-build-debug/cmake_install.cmake cmake-build-debug/CTestConfiguration.ini cmake-build-debug/CTestCustom.cmake cmake-build-debug/CTestTestfile.cmake cmake-build-debug/devel cmake-build-debug/gtest cmake-build-debug/mir cmake-build-debug/mir_support_module cmake-build-debug/Testing cmake-build-debug/test_results
 .idea/misc.xml .idea/modules.xml .idea/src.iml .idea/vcs.xml .idea/workspace.xml
+.idea/*
